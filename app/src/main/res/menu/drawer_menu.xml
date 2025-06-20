@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:checked="true" />
+        <item
+            android:id="@+id/nav_basic"
+            android:title="Basic" />
+        <item
+            android:id="@+id/nav_causes"
+            android:title="Causes of loss" />
+        <item
+            android:id="@+id/nav_Strategies"
+            android:title="Strategies" />
+
+        <item
+            android:id="@+id/nav_testing"
+            android:title="Testing" />
+        <item
+            android:id="@+id/nav_aboutus"
+            android:title="About Us" />
+    </group>
+</menu>

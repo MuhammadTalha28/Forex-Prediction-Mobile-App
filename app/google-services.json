@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154764585708",
+    "project_id": "forex-c9fd7",
+    "storage_bucket": "forex-c9fd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154764585708:android:03c4751e91d89ec087d3c9",
+        "android_client_info": {
+          "package_name": "com.example.Forex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbrdmrt7o9SOFy1CfHYkeW_nLtWuEq-8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
